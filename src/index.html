@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Cybersecurity Info – Received vs Preferred</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="module" src="js/index.js"></script>
+    
+<!--    <script src="https://d3js.org/d3.v7.min.js"></script>-->
+<!--    <script type="module" src="/node_modules/zero-md/dist/zero-md.min.js"></script>-->
+
+  
+</head>
+<body>
+ <div class="page">
+    <header class="page-header">
+      <h1>Cybersecurity information – overview</h1>
+
+      <div id="active-filters" class="active-filters"></div> 
+
+      <div class="header-actions">
+        <button id="btn-open-filters" class="btn">Filters</button>
+        <button id="btn-clear-filters" class="btn btn-secondary">Remove filters</button>
+      </div>
+    </header>
+    <div id="filters-modal" class="modal" aria-hidden="true">
+      <div class="modal-backdrop" data-close="true"></div>
+
+      <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="filters-title">
+        <div class="modal-header">
+          <h2 id="filters-title">Demographic filters</h2>
+      
+        <div class="modal-header-actions">
+          <button id="btn-clear-filters-modal" class="btn btn-secondary">Remove filters</button>
+          <button id="btn-close-filters" class="btn btn-icon" aria-label="Close">✕</button>
+        </div>
+      </div>
+        <div class="modal-body">
+          
+          <div class="filter-section">
+            <h3 class="filter-title">Age group </h3>
+            <div id="age-filter-chart" class="filter-chart"></div>
+           
+
+          </div>
+          <div class="filter-section">
+            <h3 class="filter-title">Gender</h3>
+            <div id="gender-filter" class="filter-chart"></div>
+          </div>
+          <div class="filter-section">
+            <h3 class="filter-title">Victim</h3>
+            <div id="victim-filter" class="filter-chart"></div>
+          </div>
+
+          <div class="filter-section">
+            <h3 class="filter-title">Profession</h3>
+            <div id="profession-filter" class="filter-chart"></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <main class="grid grid-3col">
+
+      <!-- LEFT TOP (60%): MATRIX -->
+      <section id="matrix-card" class="panel panel-matrix">
+      <div class="card subpanel panel-vertical">
+        <h2>Received vs Preferred ways</h2>
+        <div id="chart-matrix" class="chart-container"></div>
+      </div>
+      <div class="card subpanel panel -vertical">
+        <h2>What media preferences emerge from participants’ experiences in receiving cybersecurity information?</h2>
+        <div id="chart-radialSets" class="chart-container"></div>
+      </div>
+      <!-- Upset moved under the line chart (inside the same card) -->
+      <div class="card subpanel subpanel-upset panel-vertical">
+        <h2>How People Received Cybersecurity Information</h2>
+
+        <div class="radio-group">
+          <label><input type="radio" name="topN" value="20" checked> Top 20</label>
+          <label><input type="radio" name="topN" value="40"> Top 40</label>
+          <label><input type="radio" name="topN" value="80"> Top 80</label>
+          <label><input type="radio" name="topN" value="100"> Top 100</label>
+          <label><input type="radio" name="topN" value="all"> All</label>
+        </div>
+
+        <div id="Upset-plot" class="chart-container"></div>
+      </div>
+      </section>
+
+
+      <!-- RIGHT (20%, spans 2 rows): TRELLIS + LEGEND -->
+      <section id="trellis-card" class="card panel panel-trellis panel-vertical">
+        <div class="card-header">
+          <h2>Preferences for Receiving Cybersecurity Information (Q5) and Desired Weekly Time Investment (Q9)</h2>
+          <div id="legend"></div>
+        </div>
+
+        <div id="chart-trellis" class="chart-container"></div>
+      </section>
+
+     
+
+    </main>
+  </div>
+
+  <!-- shared tooltip -->
+  <div id="tooltip" class="tooltip" style="opacity:0;"></div>
+</body>
+</html>

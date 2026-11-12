@@ -1,0 +1,11 @@
+{
+  "server": {
+    "baseDir": "src",
+    "index": "index.html"
+  },
+  "files": ["src/**/*.{html,htm,css,js}"],
+  "watchOptions": {
+    "ignored": "node_modules"
+  },
+  "injectChanges": false
+}

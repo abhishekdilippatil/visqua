@@ -1,0 +1,651 @@
+{
+  "column_labels": [
+    "GUID",
+    "Sista sidan",
+    "Enkätversion",
+    "Läge",
+    "Plats",
+    "Satte igång",
+    "Avslutad",
+    "LOI",
+    "Status",
+    "Källa",
+    "Enhet",
+    "Kön",
+    "Födelseår",
+    "Postnummer",
+    "CONTROL2. Vilket land bor du i?",
+    "DEM1. DEL 1 – BAKGRUNDSINFORMATION Enkätens första del innehåller frågor om din bakgrund. Kön:",
+    "DEM2A. Ålder:",
+    "DEM2. Ålder:",
+    "DEM5_SE. Vilken utbildning har du hittills genomgått (avslutat)?",
+    "DEM6_SE. Vilken är din huvudsakliga sysselsättning?",
+    "DEM6_SE. Vilken är din huvudsakliga sysselsättning?",
+    "DEM3A_SE. Vilket svar beskriver bäst det område där du bor?",
+    "DEM7. Vilken digital enhet använder du mest privat?",
+    "DEM8. Har du varit utsatt för något fullbordat brott på nätet?",
+    "DEM9. Vilket alternativ beskriver bäst din IT-kompetens? Besvara frågan utifrån din privata användning av IT.",
+    "CONTROL. Bebo[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Facebook[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. FitFinder[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Instagram[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. LinkedIn[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Pinterest[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. PlanetAll[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Reddit[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Snapchat[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. TikTok[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. X / Twitter[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Yahoo! Mash[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. YouTube[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Andra[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Jag använder inte några sociala medier regelbundet[Vilka av följande sociala medier använder du regelbundet?]",
+    "CONTROL. Föredrar att inte ange[Vilka av följande sociala medier använder du regelbundet?]",
+    "Q1. Genom digitala föreläsningar[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation menas alla typer av aktiv",
+    "Q1. Genom fysiska föreläsningar[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation menas alla typer av aktivi",
+    "Q1. Genom information som skickats till mig digitalt, exempelvis via e-post[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäker",
+    "Q1. Genom självstudier via en digital plattform, exempelvis YouTube eller en webbsida[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med",
+    "Q1. Utförlig skriftlig information, exempelvis böcker[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation mena",
+    "Q1. Genom att spela ett spel[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation menas alla typer av aktiviteter",
+    "Q1. Genom att delta i simuleringar (uppleva säkerhetsincidenter i en kontrollerad miljö)[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation.",
+    "Q1. Som tips vid mina dagliga aktiviteter, exempelvis lösenordstips när jag ska skapa ett konto[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinform",
+    "Q1. Reklam i form av exempelvis affischer eller broschyrer[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation m",
+    "Q1. Genom tips eller stöd från exempelvis vänner, familj, eller kollegor[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäker",
+    "Q1. Lyssna på inspelat material, exempelvis en pod eller ljudbok[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinform",
+    "Q1. Annat, nämligen:[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation menas alla typer av aktiviteter och h",
+    "Q1. Annat, nämligen:[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation menas alla typer av aktiviteter och h",
+    "Q1. Jag har inte fått någon information om cybersäkerhet[DEL 2 – TIDIGARE ERFARENHETER AV CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om dina tidigare upplevelser av cybersäkerhetsinformation. Med cybersäkerhetsinformation",
+    "Q1x2. Genom digitala föreläsningar[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Genom fysiska föreläsningar[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Genom information som skickats till mig digitalt, exempelvis via e-post[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Genom självstudier via en digital plattform, exempelvis youtube eller en webbsida[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Utförlig skriftlig information, exempelvis böcker[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Kortfattad skriftlig information, exempelvis böcker[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Genom att spela ett spel[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Genom att delta i simuleringar (uppleva säkerhetsincidenter i en kontrollerad miljö)[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Som tips vid mina dagliga aktiviteter, exempelvis lösenordstips när jag ska skapa ett konto[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Reklam i form av exempelvis affischer eller broschyrer[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Genom tips eller stöd från exempelvis vänner, familj, eller kollegor[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Lyssna på inspelat material, exempelvis en pod eller ljudbok[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q1x2. Annat[Till vilken grad uppskattade du detta sätt att få till dig information om cybersäkerhet?]",
+    "Q2. Det var lätt att delta/ta till sig[Till vilken grad håller du med om följande påståenden om dina tidigare erfarenheter om cybersäkerhetsinformation? Om du haft flera tidigare erfarenheter: försök att svara utifrån ett medel av dessa erfarenhe",
+    "Q2. Det var relevant för mig[Till vilken grad håller du med om följande påståenden om dina tidigare erfarenheter om cybersäkerhetsinformation? Om du haft flera tidigare erfarenheter: försök att svara utifrån ett medel av dessa erfarenheter.]",
+    "Q2. Det ökade min kunskap om cybersäkerhet[Till vilken grad håller du med om följande påståenden om dina tidigare erfarenheter om cybersäkerhetsinformation? Om du haft flera tidigare erfarenheter: försök att svara utifrån ett medel av dessa erfa",
+    "Q2. Det ökade mitt intresse att agera för att förbättra min cybersäkerhet[Till vilken grad håller du med om följande påståenden om dina tidigare erfarenheter om cybersäkerhetsinformation? Om du haft flera tidigare erfarenheter: försök att svar",
+    "Q2. Det var intressant[Till vilken grad håller du med om följande påståenden om dina tidigare erfarenheter om cybersäkerhetsinformation? Om du haft flera tidigare erfarenheter: försök att svara utifrån ett medel av dessa erfarenheter.]",
+    "Q2. Det var lätt att förstå[Till vilken grad håller du med om följande påståenden om dina tidigare erfarenheter om cybersäkerhetsinformation? Om du haft flera tidigare erfarenheter: försök att svara utifrån ett medel av dessa erfarenheter.]",
+    "Q2. Det gjorde att jag förändrade mitt beteende[Till vilken grad håller du med om följande påståenden om dina tidigare erfarenheter om cybersäkerhetsinformation? Om du haft flera tidigare erfarenheter: försök att svara utifrån ett medel av dessa",
+    "Q3. Kan du utveckla kring bra och dåliga erfarenheter du har med cybersäkerhetsinformation?",
+    "Q5. Genom fysiska föreläsningar[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäkerhetsinformation menas alla type",
+    "Q5. Genom digitala föreläsningar[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäkerhetsinformation menas alla typ",
+    "Q5. Genom att få information skickad till mig via epost[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäkerhetsinfo",
+    "Q5. Genom självstudier via en digital plattform, exempelvis YouTube eller en webbsida[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt priv",
+    "Q5. Utförlig skriftlig information, exempelvis böcker[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäkerhetsinfor",
+    "Q5. Genom att spela ett spel[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäkerhetsinformation menas alla typer av",
+    "Q5. Genom att delta i simuleringar (uppleva säkerhetsincidenter i en kontrollerad miljö)[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt",
+    "Q5. Som tips vid mina dagliga aktiviteter, exempelvis lösenordstips när jag ska skapa ett konto[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation",
+    "Q5. Reklam i form av exempelvis affischer eller broschyrer[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäkerhetsin",
+    "Q5. Genom tips eller stöd från exempelvis vänner, familj, eller kollegor[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med",
+    "Q5. Lyssna på inspelat material, exempelvis en pod eller ljudbok[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäke",
+    "Q5. Annat[DEL 3 – PREFERENSER GÄLLANDE CYBERSÄKERHETSINFORMATION I denna del kommer du få besvara frågor om hur du helst vill ta emot cybersäkerhetsinformation i ditt privatliv. Med cybersäkerhetsinformation menas alla typer av aktiviteter och hä",
+    "Q5x99. Annat, vänligen specificera:",
+    "Q6. Jag vill delta på ett schemalagt tillfälle[När vill du helst ta till dig cybersäkerhetsinformation (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit. Klicka på ett alternativ för att välja det, och klicka på samma",
+    "Q6. Jag vill att ett program ger mig information när informationen är relevant[När vill du helst ta till dig cybersäkerhetsinformation (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit. Klicka på ett alternativ för att",
+    "Q6. Jag vill ta del av information när det passar mig[När vill du helst ta till dig cybersäkerhetsinformation (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit. Klicka på ett alternativ för att välja det, och klicka på",
+    "Q6. Jag vill få information automatiskt med regelbundna intervall[När vill du helst ta till dig cybersäkerhetsinformation (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit. Klicka på ett alternativ för att välja det, oc",
+    "Q6. Annat[När vill du helst ta till dig cybersäkerhetsinformation (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit. Klicka på ett alternativ för att välja det, och klicka på samma alternativ igen om du vill ångra dig)",
+    "Q6x99. Annat, vänligen specificera:",
+    "Q7. Tjänster jag använder[Vem vill du helst få cybersäkerhetsinformation ifrån (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit)?]",
+    "Q7. Myndigheter[Vem vill du helst få cybersäkerhetsinformation ifrån (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit)?]",
+    "Q7. Vänner och/eller familj[Vem vill du helst få cybersäkerhetsinformation ifrån (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit)?]",
+    "Q7. IT-Företag[Vem vill du helst få cybersäkerhetsinformation ifrån (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit)?]",
+    "Q7. Nyhetsmedia[Vem vill du helst få cybersäkerhetsinformation ifrån (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit)?]",
+    "Q7. Oberoende organisationer[Vem vill du helst få cybersäkerhetsinformation ifrån (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit)?]",
+    "Q7. Annat[Vem vill du helst få cybersäkerhetsinformation ifrån (Ranka dina topp 3 favoriter av alla alternativ där 1 är din främsta favorit)?]",
+    "Q7x99. Annat, vänligen specificera:",
+    "Q8. Det är viktigt att informationen är på mitt modersmål[Till vilken grad håller du med om följande påståenden om hur du vill ha cybersäkerhetsinformation? Besvara frågorna utifrån de prefersenser om gäller i ditt privatliv.]",
+    "Q8. Det är viktigt att informationen är fri från tekniska uttryck[Till vilken grad håller du med om följande påståenden om hur du vill ha cybersäkerhetsinformation? Besvara frågorna utifrån de prefersenser om gäller i ditt privatliv.]",
+    "Q8. Informationen ska vara så kortfattad som möjligt[Till vilken grad håller du med om följande påståenden om hur du vill ha cybersäkerhetsinformation? Besvara frågorna utifrån de prefersenser om gäller i ditt privatliv.]",
+    "Q8. Det är viktigt att informationen innehåller så mycket som möjligt om ett ämne[Till vilken grad håller du med om följande påståenden om hur du vill ha cybersäkerhetsinformation? Besvara frågorna utifrån de prefersenser om gäller i ditt pri",
+    "Q8. Jag vill att informationen är kortfattad men erbjuder möjlighet att lära sig mer[Till vilken grad håller du med om följande påståenden om hur du vill ha cybersäkerhetsinformation? Besvara frågorna utifrån de prefersenser om gäller i ditt pr",
+    "Q8. Det är viktigt att informationen är anpassad till mina kunskaper[Till vilken grad håller du med om följande påståenden om hur du vill ha cybersäkerhetsinformation? Besvara frågorna utifrån de prefersenser om gäller i ditt privatliv.]",
+    "Q8. Jag vill inte ha någon säkerhetsrelaterad information[Till vilken grad håller du med om följande påståenden om hur du vill ha cybersäkerhetsinformation? Besvara frågorna utifrån de prefersenser om gäller i ditt privatliv.]",
+    "Q9. Hur mycket tid är du villig att spendera på cybersäkerhetsinformation, per vecka? Besvara frågan utifrån vad som gäller för ditt privatliv",
+    "Q11. Jag kontrollerar säkerheten på de hemsidor jag besöker[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på internet in p",
+    "Q11. Jag håller mina program uppdaterade[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på internet in på dig?]",
+    "Q11. Jag använder långa lösenord med minst 12 tecken[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på internet in på dig?]",
+    "Q11. Jag raderar regelbundet min webbhistorik[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på internet in på dig?]",
+    "Q11. Jag loggar aktivt ut från konton när jag inte behöver vara inloggad längre[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du ager",
+    "Q11. Jag använder enbart mina egna enheter för att göra bankärenden på nätet[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agera",
+    "Q11. Jag använder enbart mina egna enheter för att handla på nätet[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på intern",
+    "Q11. Jag delar privat information i sociala nätverk[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på internet in på dig?]",
+    "Q11. Jag klickar på länkar i mail från okända avsändare[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på internet in på",
+    "Q11. Jag använder mitt betal- eller kreditkort i okända affärer online[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på int",
+    "Q11. Jag delar mina lösenord till mail och sociala medier med vänner eller familj[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du ager",
+    "Q11. Jag laddar ner filer från sidor jag inte tidigare besökt[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på internet in p",
+    "Q11. Jag anmäler mig till nyhetsbrev på sidor jag inte tidigare besökt[DEL 4 – KOMPETENS I denna sista del av enkäten kommer du få besvara frågor om hur du använder teknik. Till vilken grad stämmer följande påståenden om hur du agerar på int"
+  ],
+  "variable_value_labels": {
+    "CONTROL2": {
+      "1.0": "Danmark",
+      "2.0": "Finland",
+      "3.0": "Frankrike",
+      "4.0": "Tyskland",
+      "5.0": "Italien",
+      "6.0": "Norge",
+      "7.0": "Spanien",
+      "8.0": "Sverige",
+      "9.0": "Storbritannien",
+      "99.0": "Annat"
+    },
+    "DEM1": {
+      "1.0": "Man",
+      "2.0": "Kvinna",
+      "3.0": "Annat"
+    },
+    "DEM2": {
+      "1.0": "18-24",
+      "2.0": "25-34",
+      "3.0": "35-44",
+      "4.0": "45-54",
+      "5.0": "55-64",
+      "6.0": "65-80",
+      "7.0": "Mindre än 18 eller fler än 80"
+    },
+    "DEM5_SE": {
+      "1.0": "Ingen avslutad",
+      "2.0": "Grundskola/Motsvarande",
+      "3.0": "Gymnasium/Motsvarande",
+      "4.0": "Eftergymnasial utbildning kortare än tre år",
+      "5.0": "Eftergymnasial utbildning minst tre år"
+    },
+    "DEM6_SE": {
+      "1.0": "Anställd",
+      "2.0": "Egenföretagare",
+      "3.0": "Studerande",
+      "4.0": "Pensionär",
+      "5.0": "Sjukskriven",
+      "6.0": "Arbetssökande",
+      "7.0": "Annat, nämligen:"
+    },
+    "DEM3A_SE": {
+      "1.0": "Stad/tätort med minst 300 000 invånare",
+      "2.0": "Stad/tätort med 100 000 – 299 999 invånare",
+      "3.0": "Stad/tätort med 10 000 – 99 999 invånare",
+      "4.0": "Stad/tätort med 1 000 – 9 999 invånare",
+      "5.0": "Stad/tätort med under 1000 invånare, eller landsbygd"
+    },
+    "DEM7": {
+      "1.0": "Mobiltelefon",
+      "2.0": "Dator",
+      "3.0": "Surfplatta"
+    },
+    "DEM8": {
+      "1.0": "Ja",
+      "2.0": "Nej"
+    },
+    "DEM9": {
+      "1.0": "Professionell användare – Arbetar inom, har examen inom, eller studerar IT",
+      "2.0": "Expertanvändare – Intresserad användare som kan IT. Jag får ofta hjälpa andra med hemroutrar, installation av skrivare och liknande",
+      "3.0": "Medelanvändare – Jag använder IT utan större problem men får be om hjälp ibland",
+      "4.0": "Nybörjare – Jag har svårt för IT och får be om hjälp med sådant andra löser enkelt"
+    },
+    "CONTROL_1": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_2": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_3": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_4": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_5": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_6": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_7": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_8": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_9": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_10": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_11": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_12": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_13": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_99": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_999": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_9999": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_1": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_2": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_3": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_4": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_5": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_7": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_8": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_9": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_10": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_11": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_12": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_13": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_14": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1x2_1": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_2": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_3": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_4": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_5": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_6": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_7": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_8": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_9": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_10": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_11": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_12": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q1x2_13": {
+      "1.0": "1 Inte alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Väldigt mycket"
+    },
+    "Q2_1": {
+      "1.0": "1 Håller inte med alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q2_2": {
+      "1.0": "1 Håller inte med alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q2_3": {
+      "1.0": "1 Håller inte med alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q2_4": {
+      "1.0": "1 Håller inte med alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q2_5": {
+      "1.0": "1 Håller inte med alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q2_6": {
+      "1.0": "1 Håller inte med alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q2_7": {
+      "1.0": "1 Håller inte med alls",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q8_1": {
+      "1.0": "1 Håller inte alls med",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q8_2": {
+      "1.0": "1 Håller inte alls med",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q8_3": {
+      "1.0": "1 Håller inte alls med",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q8_4": {
+      "1.0": "1 Håller inte alls med",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q8_5": {
+      "1.0": "1 Håller inte alls med",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q8_6": {
+      "1.0": "1 Håller inte alls med",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q8_7": {
+      "1.0": "1 Håller inte alls med",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Håller med fullständigt"
+    },
+    "Q9": {
+      "1.0": "Ingen",
+      "2.0": "1 minut",
+      "3.0": "5 minuter",
+      "4.0": "15 minuter",
+      "5.0": "30 minuter",
+      "6.0": "60 minuter eller mer"
+    },
+    "Q11_1": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_2": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_3": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_4": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_5": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_6": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_7": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_8": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_9": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_10": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_11": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_12": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    },
+    "Q11_13": {
+      "1.0": "1 Aldrig",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Alltid",
+      "99.0": "Vet ej"
+    }
+  }
+}

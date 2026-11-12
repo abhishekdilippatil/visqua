@@ -1,0 +1,24 @@
+{
+  "name": "visqua",
+  "version": "1.0.0",
+  "description": "** Student Project - Winter Semester 2025/26 **",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.uni-weimar.de/vipe7209/visqua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "zero-md": "^3.1.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

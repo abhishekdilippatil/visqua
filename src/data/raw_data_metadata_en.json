@@ -1,0 +1,651 @@
+{
+  "column_labels": [
+    "GUID",
+    "Last page",
+    "Survey version",
+    "Status",
+    "Location",
+    "Started",
+    "Completed",
+    "LOI",
+    "Status",
+    "Source",
+    "Unit",
+    "Gender",
+    "Year of birth",
+    "Postcode",
+    "CONTROL2. Which country do you live in?",
+    "DEM1. PART 1 – BACKGROUND INFORMATION The first part of the survey contains questions about your background. Gender:",
+    "DEM2A. Age:",
+    "DEM2. Age:",
+    "DEM5_SE. What education have you completed so far?",
+    "DEM6_SE. What is your main occupation?",
+    "DEM6_SE. What is your main occupation?",
+    "DEM3A_SE. Which answer best describes the area where you live?",
+    "DEM7. Which digital device do you use most in your private life?",
+    "DEM8. Have you been the victim of a completed crime online?",
+    "DEM9. Which option best describes your IT skills? Answer the question based on your private use of IT.",
+    "CONTROL. Bebo[Which of the following social media do you use regularly?]",
+    "CONTROL. Facebook[Which of the following social media do you use regularly?]",
+    "CONTROL. FitFinder[Which of the following social media do you use regularly?]",
+    "CONTROL. Instagram[Which of the following social media do you use regularly?]",
+    "CONTROL. LinkedIn[Which of the following social media do you use regularly?]",
+    "CONTROL. Pinterest[Which of the following social media do you use regularly?]",
+    "CONTROL. PlanetAll[Which of the following social media do you use regularly?]",
+    "CONTROL. Reddit[Which of the following social media do you use regularly?]",
+    "CONTROL. Snapchat[Which of the following social media do you use regularly?]",
+    "CONTROL. TikTok[Which of the following social media do you use regularly?]",
+    "CONTROL. X / Twitter[Which of the following social media do you use regularly?]",
+    "CONTROL. Yahoo! Mash[Which of the following social media do you use regularly?]",
+    "CONTROL. YouTube[Which of the following social media do you use regularly?]",
+    "CONTROL. Andra[Which of the following social media do you use regularly?]",
+    "CONTROL. I do not use any social media regularly[Which of the following social media do you use regularly?]",
+    "CONTROL. Prefer not to state[Which of the following social media do you use regularly?]",
+    "Q1. Through digital lectures[PART 2 – PREVIOUS EXPERIENCES WITH CYBERSECURITY INFORMATION In this section, you will be asked to answer questions about your previous experiences with cybersecurity information. Cybersecurity information refers to all types of active",
+    "Q1. Through physical lectures[PART 2 – PREVIOUS EXPERIENCES WITH CYBERSECURITY INFORMATION In this section, you will be asked to answer questions about your previous experiences with cybersecurity information. Cybersecurity information refers to all types of active",
+    "Q1. Through information sent to me digitally, for example via email[PART 2 – PREVIOUS EXPERIENCES WITH CYBERSECURITY INFORMATION In this section, you will be asked to answer questions about your previous experiences with cybersecurity information. cyber-secure",
+    "Q1. Through self-study via a digital platform, such as YouTube or a website[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about your previous experiences of cybersecurity information. With",
+    "Q1. Detailed written information, such as books[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about your previous experiences of cybersecurity information. By cybersecurity information, we mean",
+    "Q1. By playing a game[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about your previous experiences of cybersecurity information. By cybersecurity information, we mean all types of activities",
+    "Q1. By participating in simulations (experiencing security incidents in a controlled environment)[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about your previous experiences with cybersecurity information.",
+    "Q1. As tips in my daily activities, such as password tips when I create an account[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will answer questions about your previous experiences with cybersecurity information",
+    "Q1. Advertising in the form of posters or brochures, for example[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will answer questions about your previous experiences with cybersecurity information. With cybersecurity information m",
+    "Q1. Through tips or support from, for example, friends, family, or colleagues[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will answer questions about your previous experiences with cybersecurity information. With cybersecurity information m",
+    "Q1. Listening to recorded material, such as a podcast or audiobook[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will answer questions about your previous experiences of cybersecurity information. With cybersecurity information",
+    "Q1. Other, namely:[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about your previous experiences of cybersecurity information. Cybersecurity information refers to all types of activities and h",
+    "Q1. Other, namely:[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about your previous experiences of cybersecurity information. Cybersecurity information refers to all types of activities and h",
+    "Q1. I have not received any information about cybersecurity[PART 2 – PREVIOUS EXPERIENCES OF CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about your previous experiences of cybersecurity information. With cybersecurity information",
+    "Q1x2. Through digital lectures[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Through physical lectures[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Through information sent to me digitally, for example via email[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Through self-study via a digital platform, for example YouTube or a website[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Detailed written information, for example books[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Brief written information, for example books[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. By playing a game[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. By participating in simulations (experiencing security incidents in a controlled environment) [To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. As tips in my daily activities, for example password tips when I create an account[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Advertising in the form of posters or brochures, for example[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Through tips or support from, for example, friends, family, or colleagues[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q1x2. Listening to recorded material, for example a podcast or audiobook[To what extent did you appreciate this way of getting information about cybersecurity?]",
+    "Q2. It was easy to participate/absorb[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? If you have had multiple previous experiences: try to answer based on one of these experiences",
+    "Q2. It was relevant to me[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? If you have had multiple previous experiences: try to answer based on one of these experiences.]",
+    "Q2. It increased my knowledge of cybersecurity[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? If you have had multiple previous experiences: try to answer based on one of these experiences",
+    "Q2. It increased my interest in taking action to improve my cybersecurity[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? If you have had multiple previous experiences: try to answer",
+    "Q2. It was interesting[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? If you have had multiple previous experiences: try to answer",
+    "Q2. It was interesting[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? experiences with cybersecurity information? If you have had several previous experiences: try to answer based on one of these experiences.]",
+    "Q2. It was easy to understand[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? If you have had several previous experiences: try to answer based on one of these experiences.]",
+    "Q2. It made me change my behavior[To what extent do you agree with the following statements about your previous experiences with cybersecurity information? If you have had several previous experiences: try to answer based on one of these",
+    "Q3. Can you elaborate on good and bad experiences you have had with cybersecurity information?",
+    "Q5. Through physical lectures[PART 3 – PREFERENCES FOR CYBERSECURITY INFORMATION In this part, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. Cybersecurity information means all types",
+    "Q5. Through digital lectures[PART 3 – PREFERENCES FOR CYBERSECURITY INFORMATION In this section, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. By cybersecurity information, we mean all types of",
+    "Q5. By having information sent to me via email[PART 3 – PREFERENCES FOR CYBERSECURITY INFORMATION In this section, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. By cybersecurity information",
+    "Q5. By self-study via a digital platform, such as YouTube or a website[PART 3 – PREFERENCES FOR CYBERSECURITY INFORMATION In this section, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life",
+    "Q5. Detailed written information, such as books[PART 3 – PREFERENCES FOR CYBERSECURITY INFORMATION In this section, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. By cybersecurity information",
+    "Q5. By playing a game [PART 3 – CYBERSECURITY INFORMATION PREFERENCES In this section you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. Cybersecurity information refers to all types of",
+    "Q5. By participating in simulations (experiencing security incidents in a controlled environment) [PART 3 – CYBERSECURITY INFORMATION PREFERENCES In this section you will be asked to answer questions about how you would prefer to receive cybersecurity information in your",
+    "Q5. As tips in my daily activities, such as password tips when I create an account [PART 3 – CYBERSECURITY INFORMATION PREFERENCES In this section you will be asked to answer questions about how you would prefer to receive cybersecurity information",
+    "Q5. Advertising in the form of, for example, posters or brochures [PART 3 – CYBERSECURITY INFORMATION PREFERENCES In this section you will be asked to answer questions about how you would prefer to receive cybersecurity information receive cybersecurity information in your private life. With cybersecurity information",
+    "Q5. Through tips or support from, for example, friends, family, or colleagues[PART 3 – CYBERSECURITY INFORMATION PREFERENCES In this section, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. With",
+    "Q5. Listening to recorded material, for example, a podcast or audiobook[PART 3 – CYBERSECURITY INFORMATION PREFERENCES In this section, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. With cybersecurity",
+    "Q5. Other[PART 3 – CYBERSECURITY INFORMATION PREFERENCES In this section, you will be asked to answer questions about how you would prefer to receive cybersecurity information in your private life. By cybersecurity information we mean all types of activities and h",
+    "Q5x99. Other, please specify:",
+    "Q6. I want to attend a scheduled event[When would you like to receive cybersecurity information (Ranking your top 3 favorites out of all options where 1 is your top favorite. Click on an option to select it, and click on the same",
+    "Q6. I want a program to provide me with information when the information is relevant[When would you like to receive cybersecurity information (Ranking your top 3 favorites out of all options where 1 is your top favorite. Click on an option to select it, and click on the same",
+    "Q6. I want to receive information when it is convenient for me[When would you like to receive cybersecurity information (Ranking your top 3 favorites out of all options where 1 is your top favorite. Click on an option to select it, and click on the",
+    "Q6. I want to receive information automatically at regular intervals[When would you like to receive cybersecurity information (Ranking your top 3 favorites out of all options where 1 is your top favorite. Click on an option to select it, and click on the",
+    "Q6. Other[When would you prefer to receive cybersecurity information (Ranking your top 3 favorites out of all options where 1 is your top favorite. Click on an option to select it, and click on the same option again if you want to undo)",
+    "Q6x99. Other, please specify:",
+    "Q7. Services I use[Who would you prefer to receive cybersecurity information from (Ranking your top 3 favorites out of all options where 1 is your top favorite)?]",
+    "Q7. Governments[Who would you prefer to receive cybersecurity information from (Ranking your top 3 favorites out of all options where 1 is your top favorite)?]",
+    "Q7. Friends and/or family[Who would you prefer to receive cybersecurity information from (Ranking your top 3 favorites out of all options where 1 is your top favorite)?]",
+    "Q7. IT Companies[Who would you prefer to receive cybersecurity information from (Ranking your top 3 favorites out of all options where 1 is your top favorite)?]",
+    "Q7. News media[Who do you prefer to get cybersecurity information from (Ranking your top 3 favorites of all options where 1 is your top favorite)?]",
+    "Q7. Independent organizations[Who do you prefer to get cybersecurity information from (Ranking your top 3 favorites of all options where 1 is your top favorite)?]",
+    "Q7. Other[Who do you prefer to get cybersecurity information from (Ranking your top 3 favorites of all options where 1 is your top favorite)?]",
+    "Q7x99. Other, please specify:",
+    "Q8. It is important that the information is in my native language[To what extent do you agree with the following statements about how you want to receive cybersecurity information? Answer the questions based on the preferences that apply to your personal life.]",
+    "Q8. It is important that the information is free of technical terms[To what extent do you agree about the following statements about how you want to receive cybersecurity information? Answer the questions based on the preferences that apply to your personal life.]",
+    "Q8. The information should be as concise as possible[To what extent do you agree with the following statements about how you want to receive cybersecurity information? Answer the questions based on the preferences that apply to your personal life.]",
+    "Q8. It is important that the information contains as much as possible about a topic[To what extent do you agree with the following statements about how you want to receive cybersecurity information? Answer the questions based on the preferences that apply to your personal life",
+    "Q8. I want the information to be concise but offer the opportunity to learn more[To what extent do you agree with the following statements about how you want to receive cybersecurity information? Answer the questions based on the preferences that apply to your personal life",
+    "Q8. It is important that the information is adapted to my knowledge [To what extent do you agree with the following statements about how you want to receive cybersecurity information? Answer the questions based on the preferences that apply to your private life.]",
+    "Q8. I do not want any security-related information [To what extent do you agree with the following statements about how you want to receive cybersecurity information? Answer the questions based on the preferences that apply to your private life.]",
+    "Q9. How much time are you willing to spend on cybersecurity information, per week? Answer the question based on what applies to your private life",
+    "Q11. I check the security of the websites I visit [PART 4 ​​– COMPETENCE In this last part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet agree with p",
+    "Q11. I keep my programs updated [PART 4 ​​– COMPETENCE In this last part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act online apply to you?]",
+    "Q11. I use long passwords with at least 12 characters [PART 4 ​​– COMPETENCE In this final part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act online apply to you?]",
+    "Q11. I regularly delete my web history [PART 4 ​​– COMPETENCE In this final part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act online apply to you?]",
+    "Q11. I actively log out of accounts when I no longer need to be logged in [PART 4 ​​– COMPETENCE In this final part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act online apply to you?]",
+    "Q11. I only use my own devices to do online banking [PART 4 ​​– COMPETENCE In this final part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act",
+    "Q11. I only use my own devices to shop online[PART 4 ​​– COMPETENCE In this final part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet apply to you?]",
+    "Q11. I share private information on social networks[PART 4 ​​– COMPETENCE In this final part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet apply to you?]",
+    "Q11. I click on links in emails from unknown senders[PART 4 ​​– COMPETENCE In this final part of the survey, you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet apply to you?",
+    "Q11. I use my debit or credit card in unknown online shops[PART 4 – COMPETENCE In this last part of the survey you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet",
+    "Q11. I share my passwords for email and social media with friends or family[PART 4 ​​– COMPETENCE In this last part of the survey you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet",
+    "Q11. I download files from sites I have not previously visited[PART 4 ​​– COMPETENCE In this last part of the survey you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet in p",
+    "Q11. I sign up for newsletters on sites I have not previously visited[PART 4 ​​– COMPETENCE In this last part of the survey you will be asked questions about how you use technology. To what extent do the following statements about how you act on the internet"
+    ],
+  "variable_value_labels": {
+    "CONTROL2": {
+      "1.0": "Denmark",
+      "2.0": "Finland",
+      "3.0": "France",
+      "4.0": "Germany",
+      "5.0": "Italy",
+      "6.0": "Norway",
+      "7.0": "Spain",
+      "8.0": "Sweden",
+      "9.0": "United Kingdom",
+      "99.0": "Other"
+    },
+    "DEM1": {
+      "1.0": "Man",
+      "2.0": "Woman",
+      "3.0": "Other"
+    },
+    "DEM2": {
+      "1.0": "18-24",
+      "2.0": "25-34",
+      "3.0": "35-44",
+      "4.0": "45-54",
+      "5.0": "55-64",
+      "6.0": "65-80",
+      "7.0": "Under 18 or over 80"
+    },
+    "DEM5_SE": {
+      "1.0": "No completed",
+      "2.0": "Primary school/Equivalent",
+      "3.0": "High school/Equivalent",
+      "4.0": "Post-secondary education less than three years",
+      "5.0": "Post-secondary education at least three years"
+    },
+    "DEM6_SE": {
+      "1.0": "Employed",
+      "2.0": "Self-employed",
+      "3.0": "Student",
+      "4.0": "Pensioner",
+      "5.0": "Sick leave",
+      "6.0": "Job seeker",
+      "7.0": "Other, namely:"
+    },
+    "DEM3A_SE": {
+      "1.0": "City/town with at least 300,000 inhabitants",
+      "2.0": "City/town with 100,000 – 299,999 inhabitants",
+      "3.0": "City/town with 10,000 – 99,999 inhabitants",
+      "4.0": "City/town with 1,000 – 9,999 inhabitants",
+      "5.0": "City/town with under 1,000 inhabitants, or rural area"
+    },
+    "DEM7": {
+      "1.0": "Mobile phone",
+      "2.0": "Computer",
+      "3.0": "Tablet"
+    },
+    "DEM8": {
+      "1.0": "Yes",
+      "2.0": "No"
+    },
+    "DEM9": {
+      "1.0": "Professional user – Works in, has a degree in, or studies IT",
+      "2.0": "Expert user – Interested user who knows IT. I often help others with home routers, printer installation, and similar",
+      "3.0": "Intermediate user – I use IT without major problems but sometimes need help",
+      "4.0": "Beginner – I have difficulty with IT and need to ask for help with things that others solve easily"
+    },
+    "CONTROL_1": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_2": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_3": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_4": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_5": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_6": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_7": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_8": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_9": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_10": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_11": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_12": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_13": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_99": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_999": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "CONTROL_9999": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_1": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_2": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_3": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_4": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_5": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_7": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_8": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_9": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_10": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_11": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_12": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_13": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1_14": {
+      "0.0": "No",
+      "1.0": "Yes"
+    },
+    "Q1x2_1": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_2": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_3": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_4": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_5": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_6": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_7": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_8": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_9": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_10": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_11": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_12": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q1x2_13": {
+      "1.0": "1 Not at all",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Very much"
+    },
+    "Q2_1": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q2_2": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q2_3": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q2_4": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q2_5": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q2_6": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q2_7": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q8_1": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q8_2": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q8_3": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q8_4": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q8_5": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q8_6": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q8_7": {
+      "1.0": "1 I completely disagree.",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 I completely agree."
+    },
+    "Q9": {
+      "1.0": "No one",
+      "2.0": "1 minute",
+      "3.0": "5 minutes",
+      "4.0": "15 minutes",
+      "5.0": "30 minutes",
+      "6.0": "60 minutes or more"
+    },
+    "Q11_1": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_2": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_3": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_4": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_5": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_6": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_7": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_8": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_9": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_10": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_11": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_12": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    },
+    "Q11_13": {
+      "1.0": "1 Never",
+      "2.0": "2",
+      "3.0": "3",
+      "4.0": "4",
+      "5.0": "5",
+      "6.0": "6 Always",
+      "99.0": "Don't know"
+    }
+  }
+}
